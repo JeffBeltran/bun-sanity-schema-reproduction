@@ -1,0 +1,14 @@
+{
+  "name": "bun-sanity-schema-reproduction",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@sanity/schema": "^3.28.0"
+  }
+}
